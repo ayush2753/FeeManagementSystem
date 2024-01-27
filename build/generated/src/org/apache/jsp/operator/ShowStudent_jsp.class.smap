@@ -1,0 +1,18 @@
+SMAP
+ShowStudent_jsp.java
+JSP
+*S JSP
+*F
++ 0 ShowStudent.jsp
+operator/ShowStudent.jsp
+*L
+1,29:45
+29:74
+30:75,6
+31,3:81,3
+34,2:90
+36:92,3
+37,3:95
+42,4:98
+45,2:102
+*E
